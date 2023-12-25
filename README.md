@@ -31,8 +31,7 @@ The project's MATLAB code is complete and available in this repository. To run t
 3. LEGO EV3 Ultrasonic Sensor
 
 ## Instructions
-
-1. Clone this repository to your local machine:
+Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/lego-ev3-segway.git
+   git clone https://github.com/Antmchl/LEGO-Segway-Robot.git
