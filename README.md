@@ -4,7 +4,7 @@
 
 This project was developed as part of a 2nd-year course in robotics and automation at Telecom Physique Strasbourg engineering school. The collaboration between me and my friend Timothée Mounier resulted in the successful modeling of a LEGO EV3 segway robot, resembling an inverse pendulum.
 
-![LEGO EV3 Segway Robot](Images/Segway Robot.png)
+![LEGO EV3 Segway Robot](Images/Segway-Robot.png)
 
 ## Project Details
 
