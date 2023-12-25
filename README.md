@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of a 2nd-year course in robotics and automation at Telecom Physique Strasbourg engineering school. The collaboration between [Your Name] and [Friend's Name - Timothée Mounier] resulted in the successful modeling of a LEGO EV3 segway robot, resembling an inverse pendulum.
+This project was developed as part of a 2nd-year course in robotics and automation at Telecom Physique Strasbourg engineering school. The collaboration between me and my friend Timothée Mounier resulted in the successful modeling of a LEGO EV3 segway robot, resembling an inverse pendulum.
 
 ![LEGO EV3 Segway Robot](path/to/your/photo.jpg)
 
@@ -23,7 +23,6 @@ The project's MATLAB code is complete and available in this repository. To run t
 
 1. **Simulink Library**
 2. **LEGO MINDSTORMS EV3 Support from Simulink**
-3. [Add any additional libraries if necessary]
 
 ## Hardware Requirements
 
